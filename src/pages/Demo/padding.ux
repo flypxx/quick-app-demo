@@ -32,7 +32,6 @@ export default {
     flex-direction: column;
     padding: 0 24px;
     width: 100%;
-    overflow: auto;
     .padding-item {
       margin-bottom: 16px;
       padding-bottom: 16px;
